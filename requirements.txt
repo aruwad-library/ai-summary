@@ -3,6 +3,7 @@ pandas
 matplotlib
 scikit-learn
 optuna
+seaborn
 category_encoders
 
 # torch
