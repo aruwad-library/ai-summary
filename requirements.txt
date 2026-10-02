@@ -1,0 +1,32 @@
+# ML
+pandas
+matplotlib
+scikit-learn
+optuna
+
+# torch
+# pip install torch==2.12.1 torchvision==0.27.1 --index-url https://download.pytorch.org/whl/cu130      # for rtx5090.
+# torch
+# torchvision
+torchinfo
+
+# NLP
+transformers
+datasets
+accelerate
+sentence-transformers
+peft
+bitsandbytes
+trl
+lm_eval[hf]
+
+# RAG
+qdrant-client
+ir-measures
+fastembed
+faiss-cpu
+
+# Misc
+kaggle
+kagglehub
+openpyxl

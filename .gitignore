@@ -1,0 +1,6 @@
+# General
+.venv/
+
+# Custom
+tmp/
+data/
