@@ -25,4 +25,18 @@
     - Feature distribution
     - Correlation analysis
     - Feature importance
+2. Supervised Learning
+  1) Linear Models
+    - Ordinary least square
+    - Regularization
+    - Logistic regression
+    - Polynomial regression
+    - Robust regression
+    - Quantile regression
+  2) SVM
+    - LinearSVC
+    - SVC
+  3) Probabilistic Models
+    - Naive Bayes
+    - Gaussian Process
 ```
