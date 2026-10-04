@@ -4,8 +4,8 @@
 - Aims for a quick reminder for practical use; a detailed explanation is provided in the blog.
 
 # Index
+## Part I. Traditional ML
 ```markdown
-# Part I. Traditional ML
 1. Data Preparation
   1) Load
     - Local files
@@ -39,4 +39,12 @@
   3) Probabilistic Models
     - Naive Bayes
     - Gaussian Process
+  4) Decision Tree
+    - Single tree
+    - Random forest
+    - AdaBoost
+    - GBDT
+    - XGBoost
+    - LightGBM
+    - CatBoost
 ```
