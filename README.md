@@ -56,4 +56,9 @@
   2) Density Estimation
     - KDE
     - GMM
+  3) Dimensionality Reduction
+    - PCA
+    - Truncated SVD
+    - t-SNE
+    - UMAP
 ```
