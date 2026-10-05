@@ -47,4 +47,10 @@
     - XGBoost
     - LightGBM
     - CatBoost
+3. Unsupervised Learning
+  1) Clustering
+    - K-Means
+    - DBSCAN
+    - Agglomerative clustering
+    - Affinity propagation
 ```
