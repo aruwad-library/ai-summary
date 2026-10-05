@@ -53,4 +53,7 @@
     - DBSCAN
     - Agglomerative clustering
     - Affinity propagation
+  2) Density Estimation
+    - KDE
+    - GMM
 ```
