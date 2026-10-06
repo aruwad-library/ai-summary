@@ -71,4 +71,8 @@
     - Grid search
     - Random search
     - Optuna
+  3) Ensemble
+    - Voting
+    - Bagging
+    - Stacking / Blender
 ```
