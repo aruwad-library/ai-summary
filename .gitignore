@@ -4,3 +4,4 @@
 # Custom
 tmp/
 data/
+*.db
