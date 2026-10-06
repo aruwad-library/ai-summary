@@ -61,4 +61,10 @@
     - Truncated SVD
     - t-SNE
     - UMAP
+4. Model Selection
+  1) Evaluation
+    - Train-test split
+    - Cross validation
+    - Classification
+    - Regression
 ```
