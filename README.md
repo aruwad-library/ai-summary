@@ -67,4 +67,8 @@
     - Cross validation
     - Classification
     - Regression
+  2) Hyperparameter Optimization
+    - Grid search
+    - Random search
+    - Optuna
 ```

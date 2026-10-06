@@ -2,9 +2,10 @@
 pandas
 matplotlib
 scikit-learn
-optuna
 seaborn
 category_encoders
+optuna
+optuna-dashboard
 
 # torch
 # pip install torch==2.12.1 torchvision==0.27.1 --index-url https://download.pytorch.org/whl/cu130      # for rtx5090.
@@ -32,3 +33,4 @@ faiss-cpu
 kaggle
 kagglehub
 openpyxl
+plotly
