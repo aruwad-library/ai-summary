@@ -21,6 +21,8 @@ torchao
 # NLP
 transformers
 datasets
+evaluate
+bert_score
 accelerate
 sentence-transformers
 peft
