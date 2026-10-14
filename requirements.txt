@@ -31,6 +31,8 @@ trl
 lm_eval[hf]
 
 # RAG
+langchain
+langchain-text-splitters
 qdrant-client
 ir-measures
 fastembed
@@ -41,3 +43,4 @@ kaggle
 kagglehub
 openpyxl
 plotly
+bs4
