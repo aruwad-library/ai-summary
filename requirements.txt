@@ -31,12 +31,18 @@ trl
 lm_eval[hf]
 
 # RAG
-langchain
-langchain-text-splitters
 qdrant-client
 ir-measures
 fastembed
 faiss-cpu
+
+
+# Agent
+langchain
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+langchain-qdrant
 
 # Misc
 kaggle
@@ -44,3 +50,4 @@ kagglehub
 openpyxl
 plotly
 bs4
+wikipedia-api

@@ -7,3 +7,7 @@ pip:
 # git
 push-f:
 	git push --force-with-lease
+
+# NLP
+ollama:
+	ollama pull qwen3:4b-instruct
