@@ -10,4 +10,4 @@ push-f:
 
 # NLP
 ollama:
-	ollama pull qwen3:4b-instruct
+	ollama pull qwen3:4b
