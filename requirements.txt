@@ -43,6 +43,7 @@ langchain-text-splitters
 langchain-huggingface
 langchain-ollama
 langchain-qdrant
+langgraph-checkpoint-sqlite
 
 # Misc
 kaggle
