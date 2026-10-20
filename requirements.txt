@@ -44,6 +44,9 @@ langchain-huggingface
 langchain-ollama
 langchain-qdrant
 langgraph-checkpoint-sqlite
+langmem
+sqlite-vec
+sqlite_utils
 
 # Misc
 kaggle
