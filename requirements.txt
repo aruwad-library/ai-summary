@@ -55,3 +55,4 @@ openpyxl
 plotly
 bs4
 wikipedia-api
+pygraphviz

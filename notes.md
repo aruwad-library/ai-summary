@@ -19,11 +19,11 @@
 # Roadmap - Agent
   - Basics
   - Memory
+  - Agent Architecture & Orchestration: agent loops, state machines, workflows, routing, parallel execution, etc.
 
 
   
   - Reasoning & Planning
-  - Agent Architecture & Orchestration: agent loops, state machines, workflows, routing, parallel execution, etc.
   - Context Engineering: dynamic context construction, retrieval strategies, context compression, etc.
   - Agentic Environments: browser agent, coding agent, computer use, etc.
   - Evaluation: benchmarks, trajectory evaluation, reliability, latency, cost, etc.
