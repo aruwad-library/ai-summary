@@ -38,6 +38,10 @@
 - Paper: Don't trust chatgpt when your question is not in english, 2021 emnlp.
 - MemGPT: multiple memory tiers
 - Titans: inference-learning memory
+- Lost in the middle: token position affects the response.
+- Agent middlewares
+  - `LLMToolSelectorMiddleware`: for dynamic tool selection
+  - `SummarizationMiddleware`: for summarization
 
 ----------------------------------------------------------------------------------------
 
