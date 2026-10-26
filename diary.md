@@ -8,9 +8,19 @@
 - Prompt Template: `langchain_core.prompts`
 - Chat Model: `langchain_ollama.ChatOllama`
 - Chain: `langchain_core.runnables.chain`
+- Agent: `langchain.agents`
+- Tools: `langchain.tools`
 
-- `langchain.agents`
-  - `create_agent`
+- Middlewares: `langchain.agents.middleware`
+
+----------------------------------------
+
+# To-do
+- Middlewares: `langchain.agents.middleware`
+- Graph: `3_Architecture.ipynb` -> `3_Graph.ipynb`
+
+
+
 
 ----------------------------------------
 
@@ -25,6 +35,18 @@
   - load
     - dumps(): write as str
     - loads(): read from str
+  - runnables
+    - chain
+
+- langchain.agents
+  - `create_agent`
+  - middleware
+    - `ToolCallLimitMiddleware`
+
+- langchain.tools
+  - `tool`: @tool decorator
+  - `ToolRuntime`: runtime tool information that a tool receives in runtime
+  - `ToolException`: an exception thrown by a tool in runtime
 
 
 
@@ -36,3 +58,8 @@
 - ctrl + shift + ,          kernel restart
 - ctrl + shift + .          kernel restart + run all
 - ctrl + shift + /          kernel restart + run up to current
+
+- ctrl + alt + [            collapse all input cells
+- ctrl + alt + ]            expand all input cells
+- ctrl + shift + [          collapse all output cells
+- ctrl + shift + ]          expand all output cells
