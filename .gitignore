@@ -1,9 +1,13 @@
 # General
 .venv/
 
-# Custom
-tmp/
-data/
+# Files
 *.db
 *.sqlite
 *.png
+*.json
+*.jsonl
+
+# Custom
+tmp/
+data/
