@@ -1,53 +1,24 @@
 # 10/26, Mon
-(10:30 am ~ )
+- Misc
+  - `dotenv`
+- Chat
+  - Prompt Template: `langchain_core.prompts`
+  - Chat Model: `langchain_ollama.ChatOllama`
+  - Chain: `langchain_core.runnables.chain`
+- Agent
+  - Tool: `langchain.tools`
+  - Middleware: `langchain.agents.middleware`
 
-- Setup
-  - Chrome profile
-  - VSC/Jupyter shortcuts
-- Env: `dotenv`
-- Prompt Template: `langchain_core.prompts`
-- Chat Model: `langchain_ollama.ChatOllama`
-- Chain: `langchain_core.runnables.chain`
-- Agent: `langchain.agents`
-- Tools: `langchain.tools`
-
-- Middlewares: `langchain.agents.middleware`
 
 ----------------------------------------
 
 # To-do
-- Middlewares: `langchain.agents.middleware`
 - Graph: `3_Architecture.ipynb` -> `3_Graph.ipynb`
-
-
-
-
-----------------------------------------
-
-# API
-- langchain_core
-  - prompts
-    - `PromptTemplate`: basic template
-    - `ChatPromptTemplate`: chat template with messages
-    - `FewShotPromptTemplate`: template with examples + example_template
-    - `FewShotPromptWithTemplates`: prefix/suffix -> another nested template
-    - `StructuredPrompt`: messages + output format
-  - load
-    - dumps(): write as str
-    - loads(): read from str
-  - runnables
-    - chain
-
-- langchain.agents
-  - `create_agent`
-  - middleware
-    - `ToolCallLimitMiddleware`
-
-- langchain.tools
-  - `tool`: @tool decorator
-  - `ToolRuntime`: runtime tool information that a tool receives in runtime
-  - `ToolException`: an exception thrown by a tool in runtime
-
+- Summarize useful tools.
+  - Google search: `from langchain_community.utilities import GoogleSerperAPIWrapper`
+  - Wikipedia: `import wikipediaapi`
+- Jupyter in VSC
+- `pprint`
 
 
 ----------------------------------------

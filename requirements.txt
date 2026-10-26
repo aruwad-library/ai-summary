@@ -47,6 +47,10 @@ langgraph-checkpoint-sqlite
 langmem
 sqlite-vec
 sqlite_utils
+deepagents
+
+# Tools
+wikipedia-api
 
 # Misc
 kaggle
@@ -54,6 +58,5 @@ kagglehub
 openpyxl
 plotly
 bs4
-wikipedia-api
 pygraphviz
 grandalf
