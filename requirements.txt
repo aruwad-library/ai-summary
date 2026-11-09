@@ -35,7 +35,8 @@ qdrant-client
 ir-measures
 fastembed
 faiss-cpu
-
+rank-bm25
+llama_index
 
 # Agent
 langchain
