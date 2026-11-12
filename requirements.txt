@@ -37,6 +37,9 @@ fastembed
 faiss-cpu
 rank-bm25
 llama_index
+llama-index-llms-ollama
+networkx
+pyvis
 
 # Agent
 langchain
